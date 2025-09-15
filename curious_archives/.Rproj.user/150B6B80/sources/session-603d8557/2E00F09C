@@ -1,0 +1,31 @@
+{
+    "id": "2E00F09C",
+    "path": "~/Git/education_slides/curious_archives/curious_archives.qmd",
+    "project_path": "curious_archives.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1757930573659.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "232,22",
+        "scrollLine": "192",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "5491:11026"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1757946714,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1757946714663,
+    "read_only": false,
+    "read_only_alternatives": []
+}
