@@ -1,0 +1,17 @@
+project:
+  title: Curious Archive
+format:
+  revealjs:
+    logo: ./figures/question_book.png
+    highlight-style: github
+    slide-number: true
+    theme: style.scss
+    css: include/webex.css
+    include-after-body: include/webex.js
+    quiz:
+      shuffleOptions: false
+revealjs-plugins:
+  - quiz
+include-in-header:
+- text: |
+    <link rel = "shortcut icon" href = "./figures/question_book.png" />

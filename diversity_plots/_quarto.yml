@@ -1,0 +1,14 @@
+project:
+  title: "diversity_plots"
+format:
+  revealjs:
+    logo: ./images/adv_r_comm.png
+    highlight-style: github
+    slide-number: true
+    theme: style.scss
+include-in-header:
+- text: |
+    <link rel = "shortcut icon" href = "./figures/adv_r_comm.png" />
+
+
+
