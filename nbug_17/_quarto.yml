@@ -1,0 +1,10 @@
+project:
+  title: "nBUG17 welcome"
+format:
+  revealjs:
+    highlight-style: github
+    slide-number: true
+    theme: style.scss
+
+
+
