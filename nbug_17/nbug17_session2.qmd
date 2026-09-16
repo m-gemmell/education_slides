@@ -156,8 +156,6 @@ format: revealjs
 - Thouhidur Rahman Chowdhury (Prize eligible)
 - Elton Vasconcelos
 
-##  {background-color="black" background-image="./images/Biomedasa_NBUG17_FlashTalk.png"}
-
 ## Break & poster time
 
 ::::: columns
